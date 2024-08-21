@@ -20,7 +20,8 @@ Developed a robust machine learning model to detect fraudulent credit card trans
 - Implemented and trained a Decision Tree Classifier and a Support Vector Machine (SVM) to classify transactions as fraudulent or non-fraudulent. 
 - Ensured model robustness and fairness by adjusting for class imbalance through sample weighting and by stratifying the dataset during train/test split.
 ### Performance Evaluation: 
-Evaluated the models using ROC-AUC score, which reflects the model's ability to distinguish between classes, and hinge loss, which measures the model’s prediction margin. The models demonstrated strong performance, with notable accuracy and efficiency in detecting fraudulent transactions.
+- Evaluated the models using ROC-AUC score, which reflects the model's ability to distinguish between classes, and hinge loss, which measures the model’s prediction margin.
+- The models demonstrated strong performance, with notable accuracy and efficiency in detecting fraudulent transactions.
 
 ## Business Impact:
 
