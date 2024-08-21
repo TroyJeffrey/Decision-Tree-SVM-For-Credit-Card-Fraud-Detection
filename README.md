@@ -5,7 +5,7 @@ Developed a robust machine learning model to detect fraudulent credit card trans
 
 ## Technologies and Tools:
 
-## Programming Languages: Python
+- Programming Languages: Python
 - Libraries: Scikit-learn, Pandas, NumPy, Matplotlib
 - Machine Learning Algorithms: Decision Tree Classifier, Support Vector Machine (SVM)
 - Data Preprocessing: Standardization, Normalization, Train/Test Split
